@@ -1,1 +1,1 @@
-# game-jam-pixi-template
+# GMTK-2019
